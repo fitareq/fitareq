@@ -136,7 +136,7 @@ I’m a deeply motivated, passionate and ambitious person who loves to work with
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fitareq&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rakib Hasan" src="https://github-readme-streak-stats.herokuapp.com/?user=fitareq&theme=vision-friendly-dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Forhadul Islam" src="https://github-readme-streak-stats.herokuapp.com/?user=fitareq&theme=vision-friendly-dark&hide_border=true" />
 
 </td>
 
