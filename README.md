@@ -3,7 +3,7 @@
 ### Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"> <p align="right" width="50%" align='right'> ![Visitors](https://gpvc.arturio.dev/fitareq) </p>
 
 ## I'm Forhadul Islam.
-I’m a deeply motivated, passionate and ambitious person who loves to work with technology.
+I’m a deeply motivated, passionate, and ambitious person who loves to work with technology.
 
 <br>
 
